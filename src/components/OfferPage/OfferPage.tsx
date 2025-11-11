@@ -30,7 +30,7 @@ const OfferPage: React.FC = () => (
       </div>
     </header>
     <main className="page__main page__main--offer">
-      {}
+      {*...*}
     </main>
   </div>
 );
